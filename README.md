@@ -1,5 +1,5 @@
 # storage_factory
-Storage Factory contract deploying SimpleStorage smart contract. ExtraStorage contract is used to override SimpleStorage smart contract give addutional value
+Storage Factory contract deploy SimpleStorage smart contract. Storage Factory contract also interact with SimpleStorage contract functions. ExtraStorage contract is used to override SimpleStorage smart contract give addutional value.
 
 
 ## Getting Started
